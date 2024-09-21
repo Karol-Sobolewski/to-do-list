@@ -21,17 +21,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3",
-    "prop-types": "^15.7.2",
-    "react": "^16.7.0",
-    "react-beautiful-dnd": "^13.0.0",
-    "react-dom": "^16.7.0",
+    "http-server": "^0.13.0",
+    "prop-types": "^15.8.1",
+    "react": "^16.14.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^16.14.0",
     "react-html-parser": "^2.0.2",
-    "react-redux": "^7.2.0",
-    "react-router-dom": "^5.0.0",
+    "react-redux": "^7.2.9",
+    "react-router-dom": "^5.3.4",
     "react-router-transition": "^1.4.0",
-    "redux": "^4.0.5",
-    "shortid": "^2.2.15"
+    "redux": "^4.2.1",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
